@@ -32,6 +32,8 @@ p {
   width: 200px;
   border-radius: 12%;
   opacity: 80%;
+  padding-bottom: 50px;
+  padding-top: 20px;
 }
 
 a {
@@ -57,13 +59,13 @@ a:hover {
   letter-spacing: 2px;
 }
 
-.white {
+.gradient1 {
   background-image: radial-gradient(white, salmon);
   width: 100%;
   height: 50px;
 }
 
-.blue {
+.gradient2 {
   background-image: radial-gradient(salmon, rgb(255, 255, 255));
   width: 100%;
   height: 50px;
